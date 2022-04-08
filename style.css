@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  width: 100%;
+  height: 10%;
+  border-bottom: black 2px solid;
+  display: flex;
+}
+.Motto {
+  width: 20%;
+}
+.Logo {
+  margin-right: 30%;
+}
+.SearchBar {
+  margin-top: 1%;
+  margin-left: 20%;
+}
+.fa-cart-shopping {
+  margin-top: 0;
+}
+.Beställ {
+  display: flex;
+  width: 30%;
+  border: solid black 2px;
+  height: 30%;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.meal {
+  width: 100%;
+}
+.sign_in {
+  margin-top: 1%;
+  width: 100px;
+  height: 20px;
+}
+.sign_up {
+  margin-top: 1%;
+  width: 100px;
+  height: 20px;
+}
+.forms {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  border: solid black 5px;
+  height: fit-content;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  background: rgb(187, 187, 187);
+  width: 20%;
+}
+.button {
+  text-align: center;
+}
